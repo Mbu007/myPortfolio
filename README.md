@@ -1,6 +1,5 @@
-# myPortfolio
 
-# Mzamomtsha Primary School Website
+#My Portfolio
 ![project image](BgI2.jpg)
 ==============================
 
