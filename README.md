@@ -1,7 +1,7 @@
 # myPortfolio
 
 # Mzamomtsha Primary School Website
-![project image](BgI3.jpg)
+![project image](BgI2.jpg)
 ==============================
 
 Description:<br>
@@ -20,7 +20,7 @@ Step 4: View the HTML Pages in Your Browser.
 =============================================
 
 Issue tracker:<br>
-https://mzamomtsha-pps-challengers.netlify.com/
+https://mbuvoyi-portfolio.netlify.com/
 =================================================
 
 Documentation of all code:
@@ -57,5 +57,5 @@ Mbuyiseli Voyi
 
 Our e-mail link:<br>
 mbuvoyi@gmail.com
-![project image](BgI2.jpg)
+![project image](abo.jpg)
 ==========================
